@@ -1,0 +1,1 @@
+I designed this website to improve my basic skills needed in web development. Blog website is for people to create an account and post their thought/knowledge about anything. Users are able to create, update and delete their own posts in database.
